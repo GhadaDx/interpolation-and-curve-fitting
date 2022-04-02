@@ -13,4 +13,4 @@ illustrates the efficacy of different curve fitting and interpolation models
 
 
 ## Demos
-
+https://github.com/GhadaDx/interpolation-and-curve-fitting/tree/main/demos
